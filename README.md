@@ -9,7 +9,7 @@ https://developer.ibm.com/patterns/assemble-a-pizza-ordering-chatbot-dialog/?mhs
 ![alt text](https://developer.ibm.com/developer/default/patterns/assemble-a-pizza-ordering-chatbot-dialog/images/pizza-architecture.png)
 
 # Results
-![alt text](https://github.com/siskaanggraeni157/EventBot-Capstone/blob/master/images/Results.png?raw=true)
+![alt text](https://github.com/siskaanggraeni157/EventBot-Capstone/blob/master/images/results.png?raw=true)
 
 # Link
 [EvBot](https://siskaanggraeni157.github.io/EventBot-Capstone/)
